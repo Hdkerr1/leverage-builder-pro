@@ -1,0 +1,7 @@
+{
+  "name": "High-Leverage Strategy Generator",
+  "description": "A world-class digital business strategist that builds step-by-step execution plans for zero-investment, passive income assets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
